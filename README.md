@@ -47,9 +47,9 @@
 - Data quality checks
 
 ## 📚 Background
-QA Engineering Bootcamp Graduate - 120+ training hours
-Industrial Quality Analyst (Automotive Sector)
-B.Eng in Business Management
+- QA Engineering Bootcamp Graduate - 720+ training hours
+- Industrial Quality Analyst (Automotive Sector)
+- B.Eng in Business Management
 
 
 ## 📫 Contact
