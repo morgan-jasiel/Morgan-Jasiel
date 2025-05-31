@@ -4,33 +4,56 @@
 **morgan-jasiel/Morgan-Jasiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-🔧 Morgan Jasiel Vargas Fuentes | QA Engineer Jr.
+# Morgan Jasiel Vargas Fuentes | QA Engineer Jr. 🔧
 📍 Focus: Manual & Automation Testing | Quality Assurance | SDLC
 
-🛠️ Tech Stack:
-Testing: Manual Testing, Test Cases/Plans, Bug Tracking (Jira), Regression/Smoke Testing.
+## 🛠 Technical Skills
 
-Automation: Python (pytest, unittest), Postman (API Testing), Selenium (Basic).
+### Testing
+- Manual Testing (Test Cases, Test Plans, Bug Reports)
+- Regression/Smoke/Sanity Testing
+- API Testing (Postman, Swagger)
+- Web Testing (Basic Selenium WebDriver)
 
-Data/DB: SQL (Queries for validation), Excel (Data Analysis).
+### Automation
+- Python (pytest, unittest)
+- Postman (Automation Testing)
+- Basic Selenium WebDriver (Python)
 
-Other Tools: Git/GitHub, Agile/Scrum.
+### Databases
+- SQL (SELECT, JOINs, data validation)
+- Excel (Data analysis, reporting)
 
-📌 Current Projects:
-Building a test automation framework (Python + Selenium) for web UI validation.
+### Tools 🎯
+- JIRA/Confluence
+- Git/GitHub
+- Agile/Scrum methodologies
 
-API Testing collection in Postman (RESTful services).
+## 🔍 Current Projects
 
-SQL scripts for data quality verification.
+### Test Automation Framework (Python)
+- Developing UI test framework using Selenium WebDriver
+- Implementing Page Object Model pattern
+- Generating automated test reports
 
-🎯 Background:
-QA Bootcamp Grad with 120+ hrs of hands-on testing projects.
+### API Testing Collection
+- REST API testing suite in Postman
+- Automated tests with Postman Runner
+- Documentation in Swagger
 
-Industrial Quality Analyst (Automotive Sector): Applied QA methodologies, audits, and continuous improvement to manufacturing processes.
+### SQL for QA
+- Database validation scripts
+- Test data generation queries
+- Data quality checks
 
-Degree: Business Engineering (Process optimization mindset).
+## 📚 Background
+QA Engineering Bootcamp Graduate - 120+ training hours
+Industrial Quality Analyst (Automotive Sector)
+B.Eng in Business Management
 
-📩 Let’s Connect:
-LinkedIn: https://www.linkedin.com/in/morgan-jasiel-vargas/
 
-Email: contac.morgan@gmail.com
+## 📫 Contact
+- LinkedIn: [[Your Profile Link](https://www.linkedin.com/in/morgan-jasiel-vargas/
+)]
+- Email: contac.morgan@gmail.com
+- Phone: +1 210 730 8033 | +52 922 105 0784
