@@ -4,23 +4,23 @@
 **morgan-jasiel/Morgan-Jasiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-# Morgan Jasiel Vargas Fuentes | QA Engineer Jr. 🔧
+# Morgan Jasiel Vargas Fuentes | QA Engineer Jr. 🕵️
 📍 Focus: Manual & Automation Testing | Quality Assurance | SDLC
 
 ## 🛠 Technical Skills
 
-### Testing
+### Testing 💻
 - Manual Testing (Test Cases, Test Plans, Bug Reports)
 - Regression/Smoke/Sanity Testing
 - API Testing (Postman, Swagger)
 - Web Testing (Basic Selenium WebDriver)
 
-### Automation
+### Automation 🤖
 - Python (pytest, unittest)
 - Postman (Automation Testing)
 - Basic Selenium WebDriver (Python)
 
-### Databases
+### Databases 🗄️
 - SQL (SELECT, JOINs, data validation)
 - Excel (Data analysis, reporting)
 
@@ -41,7 +41,7 @@
 - Automated tests with Postman Runner
 - Documentation in Swagger
 
-### SQL for QA
+### SQL for QA 
 - Database validation scripts
 - Test data generation queries
 - Data quality checks
